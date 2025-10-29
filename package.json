@@ -4,7 +4,7 @@
   "description": "Samuel Ndegwa's Software Developer Portfolio",
   "main": "index.html",
   "scripts": {
-    "start": "npx serve -s . -l 3000"
+    "start": "serve -s . -l ${PORT:-3000}"
   },
   "keywords": [
     "portfolio",
