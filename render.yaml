@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: samuel-ndegwa-portfolio
-    env: node
-    buildCommand: npm install
-    startCommand: npm start
