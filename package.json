@@ -2,7 +2,6 @@
   "name": "samuel-ndegwa-portfolio",
   "version": "1.0.0",
   "description": "Samuel Ndegwa's Software Developer Portfolio",
-  "main": "index.html",
   "scripts": {
     "start": "serve -s . -l ${PORT:-3000}"
   },
